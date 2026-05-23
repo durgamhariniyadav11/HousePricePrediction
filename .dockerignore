@@ -1,0 +1,25 @@
+# Virtual environment — never copy into image
+myenv/
+
+# Git history
+.git/
+.gitignore
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Assets folder (screenshots etc.)
+assets/
+
+# README (not needed at runtime)
+README.md
