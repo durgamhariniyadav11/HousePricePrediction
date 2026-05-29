@@ -52,3 +52,5 @@ build/
 
 # ── Streamlit cache ───────────────────────────
 .streamlit/secrets.toml
+
+.pem
